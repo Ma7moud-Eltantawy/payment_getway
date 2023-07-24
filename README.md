@@ -1,4 +1,4 @@
-# payment_geteway
+# payment_gateway
 
  Payment gateway with payMob Flutter project.
 
